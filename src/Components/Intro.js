@@ -2,6 +2,7 @@ import React from 'react';
 import '../App.css';
 import { Container, Row, Col } from 'react-bootstrap';
 import coverImg from '../assets/ebook-cover.png';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const Intro = () => {
   return (
