@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Book_page/static/css/main.2475ded2.css",
+    "main.js": "/Book_page/static/js/main.58762134.js",
+    "static/media/ebook-cover.png": "/Book_page/static/media/ebook-cover.ec10698cf71a70140731.png",
+    "index.html": "/Book_page/index.html",
+    "main.2475ded2.css.map": "/Book_page/static/css/main.2475ded2.css.map",
+    "main.58762134.js.map": "/Book_page/static/js/main.58762134.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2475ded2.css",
+    "static/js/main.58762134.js"
+  ]
+}
